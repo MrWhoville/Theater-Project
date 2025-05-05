@@ -3,6 +3,5 @@ Picture of Parktwo found at: https://www.abposters.com/city-park-panorama-of-a-b
 Original icture of Benn Sitting found at: https://talkingfriends.fandom.com/wiki/Talking_Ben_the_Dog/Features
 Picture of Living room found at: https://www.decoist.com/living-rooms-ceiling-beams/
 Picture of Blackerry phone found at: https://www.amazon.com/BlackBerry-9900-Factory-Unlocked-Phone/dp/B0058GWR8O
-Picture of Text Border found at: https://pngtree.com/so/text-cloud
 Picture of text border found at: https://stock.adobe.com/search?k=%22text+box%22
 Credits to Mr. Aiello for assistance with the drawScene() method.

@@ -43,3 +43,6 @@ Record a short video of your project to display here on your README. You can do 
 ## Project Description
 
 Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
+
+The user story I made for this project was basically a high schooler looking for ways to stay off their phone all the time. This helped me made a whole lot of ideas
+of how to answer that question with an animation. I eventually decided on taking a walk across a park as a solution and simulated that with the animation i made
